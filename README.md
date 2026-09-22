@@ -84,12 +84,15 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
