@@ -86,6 +86,7 @@ Happy Coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/harshamanickam123/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +99,9 @@ Happy Coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/harshamanickam123/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
