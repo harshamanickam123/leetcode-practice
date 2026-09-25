@@ -104,4 +104,12 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/harshamanickam123/leetcode-practice/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/harshamanickam123/leetcode-practice/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
