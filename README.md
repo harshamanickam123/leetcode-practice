@@ -121,4 +121,28 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
