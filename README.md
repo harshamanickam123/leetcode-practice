@@ -93,6 +93,7 @@ Happy Coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/harshamanickam123/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +113,12 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/harshamanickam123/leetcode-practice/tree/main/0190-reverse-bits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
