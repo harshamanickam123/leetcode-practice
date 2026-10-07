@@ -93,6 +93,7 @@ Happy Coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/harshamanickam123/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
@@ -151,6 +152,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +161,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
