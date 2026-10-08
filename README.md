@@ -95,6 +95,7 @@ Happy Coding!
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/harshamanickam123/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -119,10 +120,12 @@ Happy Coding!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
