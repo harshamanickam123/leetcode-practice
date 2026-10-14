@@ -131,6 +131,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harshamanickam123/leetcode-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +169,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/harshamanickam123/leetcode-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 <!---LeetCode Topics End-->
