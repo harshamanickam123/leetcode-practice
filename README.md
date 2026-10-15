@@ -87,6 +87,7 @@ Happy Coding!
 | [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/harshamanickam123/leetcode-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshamanickam123/leetcode-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ Happy Coding!
 | ------- | ------- |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshamanickam123/leetcode-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +175,12 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshamanickam123/leetcode-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshamanickam123/leetcode-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshamanickam123/leetcode-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
