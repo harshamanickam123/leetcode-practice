@@ -1,12 +1,17 @@
 class Solution:
     def sumCounts(self, nums: List[int]) -> int:
-        l=[]
-        s=0
-        for i in range(len(nums)):
-            for j in range(i,len(nums)):
-                x=nums[i:j+1]
-                z=set(x)
-                l.append(x)
-                c=len(z)
-                s+=c**2
+        n = len(nums)
+        s = 0
+
+        for i in range(n):
+            seen = set()
+            c = 0
+
+            for j in range(i, n):
+                if nums[j] not in seen:
+                    seen.add(nums[j])
+                    c += 1
+
+                s += c * c
+
         return s
