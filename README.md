@@ -110,6 +110,7 @@ Happy Coding!
 | ------- | ------- |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshamanickam123/leetcode-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -183,4 +184,12 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshamanickam123/leetcode-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
