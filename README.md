@@ -108,6 +108,7 @@ Happy Coding!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -187,6 +188,7 @@ Happy Coding!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
