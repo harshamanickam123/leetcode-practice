@@ -109,6 +109,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0078-subsets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -120,6 +121,7 @@ Happy Coding!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/harshamanickam123/leetcode-practice/tree/main/0190-reverse-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@ Happy Coding!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Depth-First Search
