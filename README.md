@@ -137,6 +137,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
+| [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshamanickam123/leetcode-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -197,4 +198,16 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
