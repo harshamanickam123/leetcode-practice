@@ -136,6 +136,7 @@ Happy Coding!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harshamanickam123/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0292-nim-game](https://github.com/harshamanickam123/leetcode-practice/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/harshamanickam123/leetcode-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -201,6 +202,7 @@ Happy Coding!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harshamanickam123/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -209,5 +211,6 @@ Happy Coding!
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harshamanickam123/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
