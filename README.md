@@ -111,6 +111,7 @@ Happy Coding!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0078-subsets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/harshamanickam123/leetcode-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshamanickam123/leetcode-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -204,6 +205,7 @@ Happy Coding!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harshamanickam123/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/harshamanickam123/leetcode-practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
