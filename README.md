@@ -92,6 +92,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshamanickam123/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/harshamanickam123/leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/harshamanickam123/leetcode-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/harshamanickam123/leetcode-practice/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -108,6 +109,7 @@ Happy Coding!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshamanickam123/leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshamanickam123/leetcode-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0078-subsets](https://github.com/harshamanickam123/leetcode-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/harshamanickam123/leetcode-practice/tree/main/0079-word-search/) | Medium |
@@ -215,4 +217,8 @@ Happy Coding!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harshamanickam123/leetcode-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshamanickam123/leetcode-practice/tree/main/0509-fibonacci-number/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshamanickam123/leetcode-practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
